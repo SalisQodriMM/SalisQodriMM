@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Salis</h1>
-<h3 align="center">Saya mahasiswa Teknik Informatika</h3>
+<h1 align="left">Hi 👋, I'm Salis</h1>
+<h3 align="left">Saya mahasiswa Teknik Informatika</h3>
 
 💻Saat ini saya sedang belajar pemrograman mobile:
 
