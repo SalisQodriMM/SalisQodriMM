@@ -9,3 +9,5 @@
 | 2  | 04-09-2025  |  1  | Widget Row dan Column  | [Laporan Modul 2](https://docs.google.com/document/d/19scXQrfaInYWtmuhl5pIiMvjq6ckdAY8/edit?usp=sharing&ouid=105548416676952962475&rtpof=true&sd=true "Laporan Modul 2")  | [Program](https://github.com/SalisQodriMM/PrakMobileM2 "Program")  |
 |  3  | 11-09-2025  | 2  | 	Pengaturan Layout Row dan Column di Flutter  |  [Laporan Modul 3](https://docs.google.com/document/d/1rRrJpvcAwhoiVI5MtY0qiLzdzR7E1-Yo/edit?usp=sharing&ouid=105548416676952962475&rtpof=true&sd=true "Laporan Modul 3")  |  [Program](https://github.com/SalisQodriMM/PrakMobileM3 "Program")  |
 |  4  | 11-09-2025  | 2  | 	Widget Flexible dan Expanded  |  -  |  [Program](https://github.com/SalisQodriMM/PrakMobileM4 "Program")  |
+|  5  |  18-09-2025  |  3  |  Widget SizedBox, Spacer, dan Card  |  -  |  -  |
+|  6  |  18-09-2025  |  3  |  Widget GridView, ListView, GridView.builder, dan ListView.builder  |  -  |  -  |
