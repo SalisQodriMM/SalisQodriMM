@@ -1,4 +1,4 @@
-# Hi 👋, I'm Salis
+## Hi 👋, I'm Salis
 ### Saya Mahasiswa Teknik Informatika.
 
 💻Saat ini saya sedang belajar pemrograman mobile:
