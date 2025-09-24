@@ -1,4 +1,4 @@
-## Hai 👋, saya Salis Qodri Mufti Muhammad
+## Hi 👋, I'm Salis Qodri Mufti Muhammad
 ### Saya Mahasiswa Teknik Informatika.
 
 💻Saat ini saya sedang belajar pemrograman mobile:
