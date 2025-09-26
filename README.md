@@ -12,6 +12,6 @@
 |  5  |  18-09-2025  |  3  |  Widget SizedBox, Spacer, dan Card  |  -  |  [Program 5](https://github.com/SalisQodriMM/PrakMobileM5 "Program 5")  |
 |  6  |  18-09-2025  |  3  |  Widget GridView, ListView, GridView.builder, dan ListView.builder  |  -  |  [Program 6](https://github.com/SalisQodriMM/PrakMobileM6 "Program 6")  |
 |  7  |  25-09-2025  |  4  |  Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  |  -  |  [Program 7](https://github.com/SalisQodriMM/PrakMobileM7 "Program 7")  |
-|  8  |  25-09-2025  |  4  |  Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  |  -  |  -  |
+|  8  |  25-09-2025  |  4  |  Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  |  -  |  [Program 8](https://github.com/SalisQodriMM/PrakMobileM8 "Program 8")  |
 |  9  |  xx-xx-2025  |  -  |  -  |  -  |  -  |
 |  10  |  xx-xx-2025  |  -  |  -  |  -  |  -  |
