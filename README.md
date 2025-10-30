@@ -16,4 +16,4 @@
 |  9  |  02-10-2025  |  05  |  Stateful Widget  |  [Laporan Modul 9](https://docs.google.com/document/d/1kgU9wBsoEr58H395hARsX7zWuzdvFPfg/edit?usp=sharing&ouid=105548416676952962475&rtpof=true&sd=true "Laporan Modul 9")  |  [Program 9](https://github.com/SalisQodriMM/tasbih_app_m9 "Program 9")  |
 |  10  |  09-10-2025  |  06  |  Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  |  -  |  [Program 10](https://github.com/SalisQodriMM/game_app_prakmobilem10 "Program 10")  |
 |  11  |  16-10-2025  |  07  |  Manajemen State dengan GetX  |  -  |  [Program 11](https://github.com/SalisQodriMM/tasbih_getx_m11 "Program 11")  |
-|  17  |  23-10-2025  |  08  |  Ujian Tengah Semester (UTS)  |  -  |  -  |
+|  17  |  23-10-2025  |  08  |  Ujian Tengah Semester (UTS)  |  [Laporan UTS](https://drive.google.com/file/d/1KAdPyKMp2BeyzarGMAkBbSnjLwjnp60C/view?usp=drive_link "Laporan UTS")  |  [Program UTS](https://github.com/SalisQodriMM/project_uts_app "Program UTS")  |
