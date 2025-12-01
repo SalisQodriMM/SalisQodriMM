@@ -18,5 +18,5 @@
 |  11  |  16-10-2025  |  07  |  Manajemen State dengan GetX  |  -  |  [Program 11](https://github.com/SalisQodriMM/tasbih_getx_m11 "Program 11")  |
 |  12  |  23-10-2025  |  08  |  Ujian Tengah Semester (UTS)  |  [Laporan UTS](https://drive.google.com/file/d/1KAdPyKMp2BeyzarGMAkBbSnjLwjnp60C/view?usp=drive_link "Laporan UTS")  |  [Program UTS](https://github.com/SalisQodriMM/project_uts_app "Program UTS")  |
 |  13  |  06-11-2025  |  09  |  Akses Lokasi dengan GPS di Flutter  |  -  |  [Program 12](https://github.com/SalisQodriMM/lokasi_flutter_prakmobilem12 "Program 12")  |
-|  14  |  13-11-2025  |  10  |  GPS Google Cloude API  |  -  |  -  |
+|  14  |  13-11-2025  |  10  |  GPS Google Cloude API  |  -  |  [Program 13](https://github.com/SalisQodriMM/gps_google_api "Program 13")  |
 |  15  |  20-11-2025  |  11  |  Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  |  -  |  -  |
