@@ -20,3 +20,4 @@
 |  13  |  06-11-2025  |  09  |  Akses Lokasi dengan GPS di Flutter  |  -  |  [Program 12](https://github.com/SalisQodriMM/lokasi_flutter_prakmobilem12 "Program 12")  |
 |  14  |  13-11-2025  |  10  |  GPS Google Cloude API  |  -  |  [Program 13](https://github.com/SalisQodriMM/gps_google_api "Program 13")  |
 |  15  |  20-11-2025  |  11  |  Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  |  -  |  [Program 14](https://github.com/SalisQodriMM/flutter_crud_api "Program 14")  |
+|  16  |  20-11-2025  |  11  |  Ujian Akhir Semester (UAS)  |  -  |  -  |
